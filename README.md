@@ -1,2 +1,3 @@
-# three-legacy-json-to-gltf-cli
-A handy CLI for converting legacy three js JSON models to GLTF format
+# three-legacy-json-to-gltf
+
+CLI for converting three legacy JSON models to GLTF format. Not working currently.

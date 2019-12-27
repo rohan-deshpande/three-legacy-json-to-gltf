@@ -1,0 +1,34 @@
+{
+  "name": "three-legacy-json-to-gltf",
+  "version": "0.0.1",
+  "description": "CLI for converting three legacy JSON models to GLTF format",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "convert": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan-deshpande/three-legacy-json-to-gltf.git"
+  },
+  "keywords": [
+    "three",
+    "json",
+    "gltf",
+    "converter"
+  ],
+  "authors": [
+    "donmccurdy",
+    "rohan-deshpande"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rohan-deshpande/three-legacy-json-to-gltf/issues"
+  },
+  "homepage": "https://github.com/rohan-deshpande/three-legacy-json-to-gltf#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "three": "0.110.0",
+    "vblob": "^1.0.2"
+  }
+}
