@@ -28,7 +28,7 @@
   "homepage": "https://github.com/rohan-deshpande/three-legacy-json-to-gltf#readme",
   "dependencies": {
     "canvas": "^2.6.1",
-    "three": "0.110.0",
+    "three": "0.137.0",
     "vblob": "^1.0.2"
   }
 }
